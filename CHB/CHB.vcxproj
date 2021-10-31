@@ -143,8 +143,8 @@
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="src\chb\Application\Application.h" />
     <ClInclude Include="src\chb.h" />
+    <ClInclude Include="src\chb\Application\Application.h" />
     <ClInclude Include="src\chb\Core.h" />
     <ClInclude Include="src\chb\EntryPoint\EntryPoint.h" />
   </ItemGroup>
